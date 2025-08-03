@@ -1,0 +1,37 @@
+/* SearchHistory.css */
+.history-container {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    margin-top: 2rem;
+    color: white;
+  }
+  
+  .history-container h2 {
+    margin-bottom: 1rem;
+  }
+  
+  .history-container ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .history-container ul li {
+    display: flex;
+    justify-content: space-between;
+    background: rgba(255, 255, 255, 0.1);
+    padding: 0.5rem;
+    margin-bottom: 0.5rem;
+    border-radius: 5px;
+  }
+  
+  .history-container .city {
+    font-weight: bold;
+  }
+  
+  .history-container .timestamp {
+    font-size: 0.8rem;
+    opacity: 0.8;
+  }
+  

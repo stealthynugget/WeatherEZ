@@ -1,0 +1,82 @@
+/* App.css */
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  /* background: linear-gradient(to right, #1e3c72, #2a5298); */
+  color: white;
+  overflow: hidden;
+  background-image: url(C:\Users\pragi\Downloads\react-weather-app-main\react-weather-app-main\mylivewallpapers-com-Retro-Waterfall.gif);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  color: rgb(0, 76, 255);
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 1rem;
+  border-radius: 10px;
+}
+
+.navbar h1 {
+  color: #fff;
+  font-size: 2rem;
+  margin: 0;
+}
+
+.navbar a, .navbar button {
+  color: white;
+  text-decoration: none;
+  margin: 0 0.5rem;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.navbar a:hover, .navbar button:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.page {
+  animation: fadeIn 2s ease-in;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+h2 {
+  color: #fff;
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #0056b3;
+}

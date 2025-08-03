@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: "Roboto", Arial, sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(219, 219, 219);
+  background-image: url("C:\Users\pragi\Downloads\react-weather-app-main\react-weather-app-main\8759fc10b242ffe8025e2033b53770dd.gif");
+  background-repeat: no-repeat;
+  background-size: 100%;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
