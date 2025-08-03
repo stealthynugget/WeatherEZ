@@ -23,4 +23,20 @@ Error handling for invalid inputs and API issues
 
 ## Screenshots
 
+#### Login
 ![Login](Screenshots/Picture1.jpg)
+
+#### Search History
+![sh](Screenshots/Picture2.jpg)
+
+#### 7-Day Forecast
+![forecast](Screenshots/Picture3.png)
+
+#### Dynamic Weather Data
+![data](Screenshots/Picture4.jpg)
+
+#### Auto-Complete
+![ac](Screenshots/Picture5.jpg)
+
+#### Storing in MongoDB
+![mongodb](Screenshots/Picture6.jpg)
