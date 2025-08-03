@@ -23,4 +23,4 @@ Error handling for invalid inputs and API issues
 
 ## Screenshots
 
-![Alt Text](WeatherEZ/Screenshots/Picture1.jpg)
+![Login](Screenshots/Picture1.jpg)
