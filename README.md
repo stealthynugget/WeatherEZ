@@ -39,4 +39,4 @@ Error handling for invalid inputs and API issues
 ![ac](Screenshots/Picture5.jpg)
 
 #### Storing in MongoDB
-![mongodb](Screenshots/Picture6.jpg)
+![mongodb](Screenshots/Picture6.png)
